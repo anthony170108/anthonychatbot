@@ -1,0 +1,8 @@
+#Ignorar todos los archivos con extensiones .txt
+*.txt
+#Ignorar la carpeta streamlit
+.streamlit
+#Ignorar el entorno virtual 
+.env
+.venv
+venv
